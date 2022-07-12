@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automata2DSimulation", "Automata2DSimulation\Automata2DSimulation.csproj", "{F3FBECD1-461E-4457-8CB7-7D3AD2A779CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3FBECD1-461E-4457-8CB7-7D3AD2A779CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FBECD1-461E-4457-8CB7-7D3AD2A779CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FBECD1-461E-4457-8CB7-7D3AD2A779CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FBECD1-461E-4457-8CB7-7D3AD2A779CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63E6597F-D80D-4A4C-A1E9-8750F19C66D7}
+	EndGlobalSection
+EndGlobal
